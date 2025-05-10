@@ -1,10 +1,7 @@
 # 👋 Hi, I'm Mohit Jain
 
-I'm a passionate **Frontend Developer** specializing in web and mobile applications. With a strong foundation in JavaScript, React.js, and React Native, I craft intuitive and responsive user interfaces that enhance user experience.
+I have been a software developer since 2021 and worked on many different applications and websites. Currently, I'm a lead software developer at [iVue](https://ivueworld.com/), where I work on [Worlds iVue](https://www.worldsivue.com/), our 3D globe applicationand all website design and development. 
 
-- 🔭 Currently working on: Progressive Web Applications (PWAs) and Admin Dashboards
-- 🌱 Learning: Advanced TypeScript and Tailwind CSS
-- 💬 Ask me about: Frontend Development, UI/UX Design, and Agile Methodologies
 - 📫 Reach me at: [mohitkjain49@gmail.com](mailto:mohitkjain49@gmail.com)
 - 🌐 Portfolio: [mohit-jain.com](https://www.mohit-jain.com/)
 
@@ -12,8 +9,8 @@ I'm a passionate **Frontend Developer** specializing in web and mobile applicati
 
 ## 🛠️ Skills
 
-- **Languages:** JavaScript, TypeScript, Python, HTML, CSS
-- **Frameworks/Libraries:** React.js, React Native, Tailwind CSS
+- **Languages:** JavaScript, HTML, CSS, Python, GoLang, TypScript, Java, SQL
+- **Frameworks/Libraries:** Vue.js, Nuxt, Angular, React.js, CesiumJS, MAVLink
 - **Tools & Platforms:** Git, GitHub, AWS, Agile Development
 
 ## 🎓 Education
