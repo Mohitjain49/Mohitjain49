@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohit Jain
 
-I have been a software developer since 2021 and worked on many different applications and websites. Currently, I'm a lead software developer at [iVue](https://ivueworld.com/), where I work on [Worlds iVue](https://www.worldsivue.com/), our 3D globe applicationand all website design and development. 
+I have been a software developer since 2021 and worked on many different applications and websites. Currently, I'm a lead software developer at [iVue](https://ivueworld.com/), where I work on [Worlds iVue](https://www.worldsivue.com/), our 3D globe application and all website design and development. 
 
 - 📫 Reach me at: [mohitkjain49@gmail.com](mailto:mohitkjain49@gmail.com)
 - 🌐 Portfolio: [mohit-jain.com](https://www.mohit-jain.com/)
