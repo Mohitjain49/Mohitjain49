@@ -12,7 +12,7 @@ For more information about me, check out my portfolio website at [mohit-jain.com
 ## 🛠️ Skills
 
 - **Languages:** JavaScript, HTML, CSS, Python, GoLang, TypScript, Java, SQL
-- **Frameworks/Libraries:** Vue.js, Nuxt, Angular, React.js, CesiumJS, MAVLink
+- **Frameworks/Libraries:** Vue.js, Nuxt, Angular, React Native, React.js, CesiumJS, MAVLink
 - **Tools & Platforms:** Git, GitHub, AWS, Agile Development
 
 ## 🎓 Education
